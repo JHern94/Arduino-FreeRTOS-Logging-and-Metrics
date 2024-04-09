@@ -14,9 +14,10 @@ Ensure your Arduino Uno R4 WiFi is connected to the sensors as follows:
 - Push button to digital pin [4]
 
 ## Installation
+** include steps here **
 
 ## Usage
-
-## Contributing
+** How to use the project, configuration details, and examples. **
 
 ## Acknowledgments
+** Credits and references. **
